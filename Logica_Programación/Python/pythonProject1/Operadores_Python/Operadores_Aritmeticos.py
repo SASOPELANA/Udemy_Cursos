@@ -2,7 +2,7 @@
 
 # Suma
 a = 3 +4
-print(f"Suma{a}")
+print(f"Suma {a}")
 
 # Resta 
 b = 6 - 2
