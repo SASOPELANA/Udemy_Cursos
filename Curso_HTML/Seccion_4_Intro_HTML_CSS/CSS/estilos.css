@@ -1,12 +1,12 @@
 h1 {
-  color: green;
+  color: #38b000;
 }
 
 p {
-  color: white;
-  background-color: crimson;
+  color: #00ced1;
+  background-color: #dc143c;
   padding: 10px;
-  border: 10px solid powderblue;
+  border: 10px solid #6495ed;
   /*margin-top: 40px;
   margin-right: 10px;
   margin-bottom: 20px;
