@@ -3,6 +3,14 @@ h1 {
 }
 
 p {
-  color: brown;
-  /* background-color: white;*/
+  color: white;
+  background-color: crimson;
+  padding: 10px;
+  border: 10px solid powderblue;
+  /*margin-top: 40px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;*/
+  margin: auto 50px;
+  text-align: center; /* -->  alinear textos */
 }
